@@ -3,6 +3,7 @@
 I run marketing and build the AI systems that run it, mostly in Claude Code. The biggest one so far is a live product.
 
 - **[wireside](https://github.com/alisauskaitelin-pixel/wireside)** - an events website for 5 cities that I run with a team of AI agents, live at [wireside.app](https://wireside.app)
+- **[brand-zero](https://github.com/alisauskaitelin-pixel/brand-zero)** - the flow I gave Wireside its brand with, in about an hour of my time
 
 And the marketing systems behind my day job, genericized to share:
 
